@@ -1,0 +1,16 @@
+# 依存パッケージ
+node_modules
+
+# ビルド成果物
+dist
+
+# 環境変数（Supabaseの接続情報を含むためコミットしない）
+.env
+.env.local
+.env.*.local
+
+# ログ・OS/エディタ関連
+*.log
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
