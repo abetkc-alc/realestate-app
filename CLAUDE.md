@@ -10,3 +10,7 @@
   git commit -m "<変更内容の要約>"
   git push origin main
   ```
+
+## デプロイ情報
+- 本番URL：https://プロジェクト名.vercel.app
+- Supabaseプロジェクト名：realestate-app
